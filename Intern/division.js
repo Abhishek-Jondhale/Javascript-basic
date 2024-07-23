@@ -1,0 +1,10 @@
+let number1=3;
+let number2=5;
+addition=number1+number2;
+substraction=number1-number2;
+multiplication=number1*number2;
+division=number1%number2;
+console.log("addition of 2 number"+addition);
+console.log("substraction of 2 number"+substraction);
+console.log("multiplication of 2 number"+multiplication);
+console.log("division of 2 number"+division);
